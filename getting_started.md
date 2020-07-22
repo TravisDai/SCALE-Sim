@@ -9,6 +9,7 @@ Getting started is simple! SCALE-Sim is completely written in python. At the mom
 * math22
 * configparser
 * tqdm
+* absl-py
 
 using the following command:
 pip install ""
