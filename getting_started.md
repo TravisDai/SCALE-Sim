@@ -4,12 +4,14 @@
 
 Getting started is simple! SCALE-Sim is completely written in python. At the moment, it has dependencies on the following python packages. Make sure you have them in your environment.
 
-* os
+* os0
 * subprocess
-* math
+* math22
 * configparser
 * tqdm
 
+using the following command:
+pip install ""
 
 ### Custom Experiment
 
